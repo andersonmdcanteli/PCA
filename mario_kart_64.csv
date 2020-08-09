@@ -1,0 +1,9 @@
+Personagem;TimeTo30kmph_(s);TimeTo50kmph_(s);TopSpeed_(kmph);TimeToTopSpeed_(kmph);WeightClass
+Mario;2.1;3.3;68;5.1;Medium
+Luigi;1.8;3.5;68;5.3;Medium
+Peach;1.1;2;68;3.8;Light
+Toad;0.8;2.2;66;3.8;Light
+Yoshi;1;2.4;66;3.2;Light
+Donkey Kong;2;2.6;70;4.2;Heavy
+Wario;2;2.7;70;4;Heavy
+Bowser;2.1;2.5;70;3.5;Heavy
